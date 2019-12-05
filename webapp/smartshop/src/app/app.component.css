@@ -1,0 +1,53 @@
+/* include stylesheet for movie cruiser */
+.icon {
+	font-size: 30px;
+	line-height: 1;
+	vertical-align: middle;
+}
+
+.edit_colors{
+	background-color:#01A9DB;
+	color:white;
+
+}
+.gross_color{
+	color:#800000;
+	font-size:15px;
+}
+.top_header {
+	background-color: #778899;
+	width:100%;
+}
+
+.bottom {
+	background-color: #485563;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+}
+.person_icon {
+	line-height: 1;
+	vertical-align: middle;
+	size:5px;
+}
+.teaser{
+	vertical-align: super;
+}
+
+.remove{
+	text-align: right;
+}
+
+.signup-btn {
+	background-color:#485563;
+	color: white;
+}
+/* .add_colors{
+	color: red;
+} */
+  /* .search-box {
+	background-image:
+		url('https://images.unsplash.com/photo-1498579809087-ef1e558fd1da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=1800');
+		height:3000px;
+}   */
+

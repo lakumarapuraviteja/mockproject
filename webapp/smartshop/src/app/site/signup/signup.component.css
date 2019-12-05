@@ -1,0 +1,51 @@
+/* include stylesheet for truYum */
+.icon {
+	font-size: 30px;
+	line-height: 1;
+	vertical-align: middle;
+}
+.add_colors{
+	color: #808080;
+}
+
+.gross_color{
+	color:#800000;
+	font-size:15px;
+}
+.top_header {
+	background-color: #01A9DB;
+}
+
+.bottom {
+	background-color: #01A9DB;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+}
+.person_icon {
+	line-height: 1;
+	vertical-align: middle;
+	size:5px;
+}
+
+.teaser{
+	vertical-align: super;
+}
+
+.remove{
+	text-align: right;
+}
+
+.signup-btn {
+	background-color:#485563;
+	color: white;
+}
+.edit_colors{
+	background-color:#01A9DB;
+	color:white;
+
+}
+.search-box {
+	background-image:
+		url('https://images.unsplash.com/photo-1568876694728-451bbf694b83?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60');
+}
